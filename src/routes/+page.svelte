@@ -2,7 +2,7 @@
 	class="flex h-screen w-full items-center justify-center overflow-hidden bg-[var(--cream)] p-5 sm:py-15"
 >
 	<div
-		class="flex items-center justify-center overflow-hidden rounded-xl border-0 p-0 shadow-lg sm:h-11/12 sm:w-full sm:flex-col md:h-2/3 md:w-2/3 lg:h-[80%] lg:flex-row xl:h-[75%] xl:w-[40%]"
+		class="flex min-w-1/2 items-center justify-center overflow-hidden rounded-xl border-0 p-0 shadow-lg sm:h-11/12 sm:w-full sm:flex-col md:h-2/3 md:w-2/3 lg:h-[80%] lg:flex-row xl:h-[75%] xl:w-[40%]"
 	>
 		<div class="flex bg-red-700 sm:h-1/3 sm:w-full lg:h-full lg:w-1/2 lg:overflow-hidden">
 			<img
